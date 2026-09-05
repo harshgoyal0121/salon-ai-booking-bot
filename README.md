@@ -63,7 +63,10 @@ session, and hands off gracefully when it doesn't know something.
 *Tools used:* Python, python-telegram-bot, Groq API (Llama 3.3)
 
 *Turnaround:* This kind of bot can typically be customized and deployed for a
-new business in 1–3 days depending on complexity (number of services, booking
+new business in 1–3 days, depending on complexity (number of services, booking
 rules, integrations needed).
 
-*[Attach a short screen recording here showing a real conversation with the bot]*
+
+Below is the video showing a real conversation with the bot:   
+https://github.com/user-attachments/assets/38b37f09-61fd-4cc0-a4ca-193a31434b2f
+
